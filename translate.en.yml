@@ -1,0 +1,1924 @@
+te:
+  tuition_fees:
+    categories:
+      0:
+        name: Undergraduate Programs
+        records:
+          0:
+            name: Bachelor of Arts (B.A.)
+            overview: Tuition fees for the Bachelor of Arts program range from $10,000 to $12,000 per academic year, depending on the student's residency status.
+          1:
+            name: Bachelor of Science (B.Sc.)
+            overview: The Bachelor of Science program charges between $11,000 and $13,500 annually. Science-related courses often include additional lab fees.
+          2:
+            name: Bachelor of Business Administration (BBA)
+            overview: The BBA program costs range from $12,500 to $14,000 per year, with higher fees for international students and specialized courses.
+      1:
+        name: Graduate Programs
+        records:
+          0:
+            name: Master of Arts (M.A.)
+            overview: Graduate students pursuing a Master of Arts pay between $15,000 and $18,000 per year, depending on their course load and department.
+          1:
+            name: Master of Science (M.Sc.)
+            overview: The M.Sc. program's tuition fees vary from $16,000 to $19,000 annually. This program typically requires additional costs for research materials.
+          2:
+            name: Master of Business Administration (MBA)
+            overview: MBA students are charged between $20,000 and $25,000 per year. The program includes business-related seminars, often requiring extra fees.
+      2:
+        name: Doctoral Programs
+        records:
+          0:
+            name: Ph.D. in Humanities
+            overview: The Ph.D. in Humanities has a tuition fee ranging from $22,000 to $26,000 per year, depending on research and residency requirements.
+          1:
+            name: Ph.D. in Sciences
+            overview: The Sciences Ph.D. program costs between $24,000 and $28,000 annually, with additional lab and research fees required.
+          2:
+            name: Ph.D. in Business Administration
+            overview: Tuition for the Business Administration Ph.D. ranges from $25,000 to $30,000 per year. This includes dissertation defense costs and seminar fees.
+  scholarships:
+    categories:
+      0:
+        name: Merit-Based Scholarships
+        records:
+          0:
+            name: Academic Excellence Scholarship
+            overview: This scholarship is awarded to students with outstanding academic achievements. It covers up to 50% of tuition fees for the top 10% of incoming students.
+          1:
+            name: Dean’s List Scholarship
+            overview: Students who have been consistently on the Dean's List for their academic performance are eligible for this scholarship, covering 25% of tuition for the following semester.
+          2:
+            name: Presidential Merit Scholarship
+            overview: Awarded to the top-performing students across all faculties, this scholarship offers full tuition coverage for the entire program duration.
+      1:
+        name: Need-Based Scholarships
+        records:
+          0:
+            name: Financial Aid Scholarship
+            overview: This scholarship supports students from low-income families, offering up to 75% of tuition fees based on the student's financial need and academic performance.
+          1:
+            name: Sports Excellence Scholarship
+            overview: This scholarship recognizes student-athletes who demonstrate exceptional skill in their sport, offering full tuition and athletic gear support throughout their academic tenure.
+          2:
+            name: Arts and Humanities Scholarship
+            overview: Students pursuing degrees in arts, literature, or social sciences can apply for this scholarship, which offers 50% tuition coverage to those with outstanding creative or academic portfolios.
+      2:
+        name: International Student Scholarships
+        records:
+          0:
+            name: Global Scholars Award
+            overview: This scholarship offers partial or full tuition coverage to international students with exceptional academic records. It aims to promote global diversity on campus.
+          1:
+            name: International Student Achievement Scholarship
+            overview: Awarded to international students demonstrating both academic excellence and community involvement, this scholarship offers up to 30% of tuition coverage.
+          2:
+            name: Cultural Exchange Scholarship
+            overview: This scholarship is designed to foster cross-cultural understanding and is awarded to international students who have contributed significantly to their local or international community.
+  academic_calendar:
+    0:
+      name: Fall Semester Academic Calendar
+      body: "
+                <p>The Fall Semester typically begins in late August or early September and ends in December. It includes a mid-term break and final exams at the end of the semester.</p>
+                <h2>Key Dates</h2>
+                <ul>
+                <li><strong>Semester Start Date:</strong> August 28</li>
+                <li><strong>Mid-Term Break:</strong> October 15 - October 21</li>
+                <li><strong>Final Exam Period:</strong> December 10 - December 16</li>
+                <li><strong>Semester End Date:</strong> December 20</li>
+                </ul>
+                "
+    1:
+      name: Spring Semester Academic Calendar
+      body: "
+                <p>The Spring Semester starts in January and concludes in May. It includes a spring break and final exams at the end of the semester.</p>
+                <h2>Key Dates</h2>
+                <ul>
+                <li><strong>Semester Start Date:</strong> January 15</li>
+                <li><strong>Spring Break:</strong> March 10 - March 16</li>
+                <li><strong>Final Exam Period:</strong> May 5 - May 12</li>
+                <li><strong>Semester End Date:</strong> May 15</li>
+                </ul>
+                "
+    2:
+      name: Summer Session Academic Calendar
+      body: "
+                <p>The Summer Session is typically shorter, offering intensive courses from June through July. It is ideal for students who want to accelerate their studies.</p>
+                <h2>Key Dates</h2>
+                <ul>
+                <li><strong>Session Start Date:</strong> June 1</li>
+                <li><strong>Mid-Session Break:</strong> June 29 - July 1</li>
+                <li><strong>Final Exam Period:</strong> July 25 - July 27</li>
+                <li><strong>Session End Date:</strong> July 30</li>
+                </ul>
+                "
+  leaderships:
+    categories:
+      0:
+        name: University Chancellors
+        records:
+          0:
+            name: Dr. Elizabeth Thompson
+            overview: Dr. Thompson is a University President renowned for her commitment to advancing research and community partnerships.
+          1:
+            name: Dr. Michael Chen
+            overview: Dr. Chen serves as a Chancellor with a focus on academic excellence and global collaborations. His tenure is marked by significant growth in international student enrollment.
+          2:
+            name: Dr. Maria Gonzalez
+            overview: Dr. Gonzalez is the Vice President of the University who has implemented innovative programs to increase student engagement and success.
+      1:
+        name: Provosts
+        records:
+          0:
+            name: Dr. Richard Lee
+            overview: Dr. Lee is a Provost overseeing academic affairs and curriculum development. His focus on interdisciplinary programs and faculty development has contributed to rising academic rankings.
+          1:
+            name: Dr. Aisha Patel
+            overview: Dr. Patel serves as a Provost responsible for academic strategy and quality assurance. She has led initiatives to enhance online learning and research opportunities.
+          2:
+            name: Dr. Danie l Kim
+            overview: Dr. Kim is a Provost known for advancing STEM education and fostering industry partnerships. His leadership has increased funding for research and development projects.
+      2:
+        name: Deans
+        records:
+          0:
+            name: Dr. Jennifer Moore
+            overview: Dr. Moore is a Dean of the College of Arts and Humanities, recognized for curriculum innovation and faculty recruitment. She has introduced programs aligning with industry trends.
+          1:
+            name: Dr. Kevin O'Reilly
+            overview: Dr. O'Reilly serves as a Dean of the Faculty of Education, focusing on strengthening industry connections and expanding experiential learning opportunities for students.
+          2:
+            name: Dr. Laura Singh
+            overview: Dr. Singh is a Dean of the School of Engineering, leading initiatives to integrate cutting-edge technology into the curriculum and foster industry collaborations.
+  books:
+    categories:
+      0: Art and Photography
+      1: Fiction
+      2: Personal Development
+      3: Biographies and Memoirs
+      4: History
+      5: Science and Technology
+      6: Travel and Adventure
+      7: Children's Books
+    genres:
+      0: Mystery and Thriller
+      1: Fantasy
+      2: Romance
+      3: Horror
+      4: Dystopian
+      5: Young Adult
+      6: Crime and Detective
+      7: Magical Realism
+    names:
+      0: Guardians of the Forgotten Realms
+      1: Whispers in the Wind
+      2: Eclipse of the Heart
+      3: The Forgotten Kingdom
+      4: Shadows of the Past
+      5: The Lost City of Z
+      6: Secrets of the Blue Ocean
+      7: A Journey to the Stars
+      8: The Alchemist's Code
+      9: The Dark Prophecy
+      10: The Last Enchanter
+      11: Tales from the Crystal Cave
+    overviews:
+      0: A group of unlikely heroes unites to protect ancient secrets from a dark force threatening their mystical world, discovering courage and friendship along the way
+      1: Follows a young woman who discovers ancient secrets in a small coastal town, unraveling a mystery that ties her family's past to a hidden, magical world.
+      2: A young astronomer discovers an ancient secret during a rare celestial event, leading her on a journey of love, mystery, and cosmic wonder.
+      3: In a land lost to time, a young adventurer uncovers ancient secrets and mystical powers, challenging destiny to restore a forgotten kingdom to its former glory.
+      4: A detective unravels a decades-old mystery in a small town, uncovering secrets that intertwine the present and past, changing lives forever.
+      5: An intrepid explorer embarks on a perilous journey into the Amazon rainforest, seeking a legendary ancient city. Mysteries unfold in this thrilling adventure of discovery and survival.
+      6: Explores a marine biologist's thrilling quest to uncover the mysteries of a hidden underwater world, revealing ancient secrets and confronting dangers deep beneath the waves.
+      7: Follows a young astronaut on a mission to explore unknown galaxies, uncovering ancient secrets and forging unexpected alliances across the cosmos. Adventure awaits!
+      8: A young alchemist uncovers an ancient secret that could transform lead into gold. As rivals close in, he must decipher cryptic clues to unlock ultimate power.
+      9: In a world teetering on the edge of chaos, a reluctant hero discovers a prophecy foretelling darkness. With allies and enemies, she must unravel the secrets to save humanity.
+      10: An old mage discovers a hidden world of magic and must harness ancient powers to prevent a dark prophecy from consuming his kingdom
+      11: Some explorers discovering mystical crystals with ancient powers. As they delve deeper, they uncover secrets that could alter their world's destiny forever.
+  researches:
+    footer: This research was supported by application NO-87555. We would like to thank all the individuals and team members for their valuable contributions and feedback during the course of this study.
+    cat:
+      0: Education and Learning
+      1: Social Sciences
+      2: Technology and Innovation
+    name:
+      0: Exploring New Vaccination Strategies for Emerging Infectious Diseases
+      1: Emerging Trends in Artificial Intelligence for Autonomous Systems
+      2: The Role of Urban Green Spaces in Mitigating Climate Change
+      3: Assessing the Impact of Renewable Energy Adoption on Ecosystems
+      4: Understanding the Impact of Remote Work on Employee Well-being
+      5: The Effectiveness of Online Learning Platforms in Higher Education
+      6: Behavioral Economics; Understanding Consumer Decision-Making
+      7: Advances in Precision Medicine; Tailoring Treatments to Individuals
+      8: The Impact of Early Childhood Education on Long-Term Academic Success
+  blog:
+    categories:
+      0:
+        name: Business and Finance
+        records:
+          0:
+            name: The Impact of Remote Work on Corporate Culture
+            overview: This article explores how remote work is changing corporate culture, including challenges and opportunities for maintaining team cohesion and productivity.
+          1:
+            name: Investment Strategies for a Changing Market
+            overview: Explore insights into effective investment strategies, including diversification, risk management, and emerging opportunities in various asset classes.
+          2:
+            name: The Role of Technology in Modern Entrepreneurship
+            overview: Examines how technology is empowering entrepreneurs and the tools that are driving innovation and growth in startups.
+      1:
+        name: Technology and Innovation
+        records:
+          0:
+            name: The Rise of Artificial Intelligence in Everyday Life
+            overview: Artificial intelligence (AI) is increasingly becoming a part of our daily lives, from virtual assistants to personalized recommendations.
+          1:
+            name: The Role of Artificial Intelligence in Cybersecurity
+            overview: The advantages and limitations of leveraging AI technologies in cybersecurity efforts from threat detection to automated incident response
+          2:
+            name: The Importance of Digital Transformation in Business
+            overview: This article highlights the significance of digital transformation for businesses in today’s fast-paced environment.
+      2:
+        name: Marketing Strategy
+        records:
+          0:
+            name: Developing a Comprehensive Digital Marketing Plan
+            overview: This article outlines the steps to create a comprehensive digital marketing plan, including setting objectives, identifying target audiences, and choosing the right channels.
+          1:
+            name: The Role of Brand Positioning in Marketing Success
+            overview: The concept of brand positioning and its role in achieving marketing success. Strategies for differentiating your brand and defining your unique value proposition to your target audience.
+          2:
+            name: Best Practices for Creating Engaging Social Media Content
+            overview: Strategies for increasing engagement, utilizing visual elements effectively, and aligning content with audience preferences.
+  news:
+    categories:
+      0:
+        name: Business News
+        records:
+          0:
+            name: Global Stock Markets See Major Volatility
+            overview: Stock markets around the world have experienced significant fluctuations, driven by concerns over inflation, interest rate hikes, and global economic uncertainty.
+          1:
+            name: Cryptocurrency Adoption Rises Among Institutional Investors
+            overview: Institutional investors are increasingly adding cryptocurrencies to their portfolios, signaling growing acceptance of digital assets.
+          2:
+            name: Central Bank Hikes Interest Rates to Combat Inflation
+            overview: In a bid to curb rising inflation, the central bank has raised interest rates for the third time this year.
+      1:
+        name: Digital Marketing
+        records:
+          0:
+            name: New AI-Powered Marketing Automation Platform Launched
+            overview: A leading tech company has introduced an AI-driven marketing automation platform designed to streamline campaign management and enhance customer segmentation.
+          1:
+            name: Social Media Management Tool Adds Advanced Analytics Features
+            overview: A popular social media management tool has updated its features to include advanced analytics and reporting.
+          2:
+            name: AI-Powered Content Creation Tool Released
+            overview: New AI-driven content creation tool has hit the market, enabling marketers to generate high-quality articles and blog posts in minutes.
+      2:
+        name: Social Media
+        records:
+          0:
+            name: Ban on Certain Social Media Apps Implemented in Specific Regions
+            overview: Several regions have implemented bans on specific social media apps due to concerns over security and content control.
+          1:
+            name: New Social Media Regulations Enforced in Major Markets
+            overview: New regulations have been enforced in major markets to address issues related to content moderation, user privacy, and platform accountability.
+          2:
+            name: Growing Popularity of Private Messaging on Social Media
+            overview: The popularity of private messaging features on social media is on the rise, with users seeking more intimate and personal communication.
+  announcements:
+    categories:
+      0:
+        name: Academic Announcements
+        records:
+          0:
+            name: Semester Registration Deadlines
+            overview: Students are reminded to complete their registration for the upcoming semester. Late registrations may incur additional fees, and failure to register on time may result in the inability to enroll in classes.
+          1:
+            name: New Course Offerings
+            overview: The university is excited to announce several new courses for the upcoming semester, including advanced topics in different departments.
+          2:
+            name: Final Exam Schedule Released
+            overview: The schedule for final exams has been officially posted on the student portal. Students are advised to review the dates and times of their exams carefully.
+      1:
+        name: Events and Workshops
+        records:
+          0:
+            name: Career Fair
+            overview: The annual University Career Fair will be held next week at our academy. Students and alumni are invited to connect with potential employers from various industries.
+          1:
+            name: Guest Lecture Series, Innovations in Technology
+            overview: The event will cover the latest advancements in technology and explore how it is shaping the future. All students and faculty are welcome to attend.
+          2:
+            name: Student Leadership Workshop
+            overview: A special leadership development workshop will be held on [date] for students interested in enhancing their leadership skills.
+      2:
+        name: Administrative Announcements
+        records:
+          0:
+            name: Campus Maintenance Updates
+            overview: Please be informed that ongoing maintenance work will be conducted in our classes during the next month. We apologize for any inconvenience and appreciate your understanding.
+          1:
+            name: Changes to Parking Regulations
+            overview: The changes include updated parking zones, permit requirements, and designated spaces for staff, students, and visitors.
+          2:
+            name: IT System Upgrade
+            overview: The IT department will be conducting a major system upgrade next week. As a result, there may be intermittent disruptions to online services
+  facilities:
+    categories:
+      0:
+        name: Academic Facilities
+        records:
+          0:
+            name: University Library
+            overview: The University Library is the central hub for academic research, offering a vast collection of books, journals, and digital resources.
+          1:
+            name: Science and Technology Laboratories
+            overview: These state-of-the-art labs are equipped with cutting-edge technology and equipment to support research and learning in fields such as physics, chemistry, biology, and engineering.
+          2:
+            name: Lecture Halls
+            overview: Spacious and modern lecture halls are designed for large-scale presentations and classes. These facilities are equipped with audio-visual systems and comfortable seating.
+      1:
+        name: Recreational Facilities
+        records:
+          0:
+            name: Sports Complex
+            overview: The University Sports Complex offers a wide range of facilities, including a gym, swimming pool, basketball courts, and a running track.
+          1:
+            name: Student Recreation Center
+            overview: The Student Recreation Center provides spaces for leisure activities, including lounges, game rooms, and multipurpose spaces for events.
+          2:
+            name: Outdoor Recreational Fields
+            overview: The outdoor fields are designed for various sports such as soccer, rugby, and tennis. They are well-maintained and open for students to engage in both organized sports and casual recreation
+      2:
+        name: Residential and Support Facilities
+        records:
+          0:
+            name: Student Dormitories
+            overview: The university offers comfortable on-campus dormitories with modern amenities such as Wi-Fi, study areas, and communal kitchens.
+          1:
+            name: Dining Halls
+            overview: The university’s dining halls offer a variety of healthy and nutritious meal options, catering to different dietary needs.
+          2:
+            name: Health and Wellness Center
+            overview: The Health and Wellness Center provides medical services, counseling, and wellness programs to promote student health.
+
+  deanship:
+    0:
+      name: College of Arts and Humanities
+      overview: The Dean of the College of Arts and Humanities is responsible for overseeing the academic and administrative functions of one of the university's largest and most diverse colleges, encompassing a wide range of disciplines.
+      body: "<p>The Dean of the College of Arts and Humanities is responsible for overseeing the academic and administrative functions of one of the university's largest and most diverse colleges, encompassing a wide range of disciplines.</p>
+                <ul>
+                <li><strong>Academic Leadership:</strong> Provides strategic direction for the College, ensuring that academic programs are innovative, rigorous, and aligned with the university&rsquo;s mission. Oversees curriculum development and program evaluation across various departments.</li>
+                <li><strong>Faculty Management:</strong> Leads faculty recruitment, development, and evaluation processes. Supports faculty research initiatives and promotes opportunities for professional growth and development.</li>
+                <li><strong>Student Affairs:</strong> Enhances the student experience by implementing academic advising, support services, and enrichment programs. Works to ensure that students have access to resources that support their academic and career goals.</li>
+                <li><strong>Budget and Resources:</strong> Manages the College&rsquo;s budget, allocates resources, and oversees financial planning. Ensures that departmental needs are met while aligning with the overall financial strategy of the university.</li>
+                <li><strong>Community Engagement:</strong> Fosters relationships with external stakeholders, including alumni, industry partners, and community organizations. Encourages collaboration on projects and initiatives that benefit both the College and the broader community.</li>
+                </ul>"
+    1:
+      name: Dean of the School of Engineering
+      overview: The Dean of the School of Engineering oversees the School’s academic programs, research activities, and partnerships, driving innovation and excellence in engineering education and practice.
+      body: "<p>The Dean of the School of Engineering oversees the School&rsquo;s academic programs, research activities, and partnerships, driving innovation and excellence in engineering education and practice.</p>
+                <ul>
+                <li><strong>Academic Oversight:</strong> Provides leadership in the development and implementation of engineering curricula, ensuring that programs are cutting-edge and aligned with industry needs. Oversees accreditation processes and program evaluations.</li>
+                <li><strong>Research Leadership:</strong> Promotes and supports research initiatives across various engineering disciplines. Encourages collaboration between faculty, students, and industry partners to advance technological innovation and address global challenges.</li>
+                <li><strong>Faculty Development:</strong> Manages faculty recruitment, retention, and professional development. Supports faculty research efforts and fosters a collaborative and inclusive academic environment.</li>
+                <li><strong>Student Engagement:</strong> Enhances the student experience through academic advising, research opportunities, and extracurricular activities. Implements programs that support student success and career readiness in the engineering field.</li>
+                <li><strong>Industry Collaboration:</strong> Establishes and maintains partnerships with industry leaders and research institutions. Facilitates internships, co-op programs, and joint research projects to provide students with practical experience and industry exposure.</li>
+                </ul>"
+    2:
+      name: Dean of the Faculty of Law
+      overview: The Dean of the Faculty of Law provides leadership and strategic direction for the Faculty, overseeing legal education, research, and community engagement.
+      body: "<p><strong>Overview:</strong> The Dean of the Faculty of Law provides leadership and strategic direction for the Faculty, overseeing legal education, research, and community engagement. This role involves managing academic programs, fostering a supportive environment for faculty and students, and maintaining the Faculty&rsquo;s reputation for excellence in legal studies.</p>
+                <ul>
+                <li><strong>Program Review:</strong> Regularly evaluates and updates academic programs to maintain high standards of legal education and ensure alignment with industry and regulatory changes.</li>
+                <li><strong>Policy Implementation:</strong> Develops and enforces academic and administrative policies, ensuring compliance with university regulations and legal education standards.</li>
+                <li><strong>Accreditation:</strong> Oversees the accreditation process for the Faculty&rsquo;s programs, ensuring adherence to national and international legal education standards. Works to maintain and enhance the Faculty&rsquo;s accreditation status.</li>
+                <li><strong>Academic Advising:</strong> Oversees academic advising services to support student progress and address academic and career-related issues. Provides resources and guidance to help students achieve their professional goals.</li>
+                <li><strong>Curriculum Oversight:</strong> Develops and implements the curriculum for undergraduate, graduate, and professional law programs. Ensures that courses are up-to-date with current legal standards and practices, and reflect the latest developments in legal theory and practice.</li>
+                </ul>"
+  administration:
+    0:
+      name: Office of the President
+      overview: The Office of the President is the highest administrative authority within the university, responsible for setting the strategic direction and overseeing the institution's overall operations.
+      body: "<p>The Office of the President is the highest administrative authority within the university, responsible for setting the strategic direction and overseeing the institution's overall operations.</p>
+                <ul>
+                <li><strong>Leadership Role:</strong> The President serves as the chief executive officer of the university, providing visionary leadership and representing the university to external stakeholders, including government entities, alumni, and the community.</li>
+                <li><strong>Strategic Planning:</strong> Responsible for developing and implementing the university&rsquo;s strategic plan, which outlines long-term goals and initiatives aimed at enhancing academic excellence, research, and community engagement.</li>
+                <li><strong>Collaboration:</strong> Works closely with the Board of Trustees, faculty, and staff to ensure that the university's mission and values are upheld. The Office facilitates collaboration across various departments and divisions to achieve institutional objectives.</li>
+                <li><strong>Policy Development:</strong> Oversees the development and implementation of university policies and procedures, ensuring compliance with regulatory requirements and best practices in higher education.</li>
+                </ul>"
+    1:
+      name: Office of Academic Affairs
+      overview: The Office of Academic Affairs plays a crucial role in maintaining and enhancing the quality of the university’s academic programs, ensuring a rich and supportive learning environment for students.
+      body: "<p>The Office of Academic Affairs plays a crucial role in maintaining and enhancing the quality of the university&rsquo;s academic programs, ensuring a rich and supportive learning environment for students.</p>
+                <ul>
+                <li><strong>Curriculum Development:</strong> Responsible for overseeing the development, assessment, and review of academic programs and curricula across all departments. Ensures that programs meet educational standards and align with the university&rsquo;s mission.</li>
+                <li><strong>Faculty Support:</strong> Provides support for faculty development, including hiring, training, and evaluation. The Office promotes professional development opportunities and resources to enhance teaching effectiveness and scholarly activities.</li>
+                <li><strong>Academic Policies:</strong> Develops and enforces academic policies related to student admissions, retention, graduation requirements, and academic integrity. Works to ensure that policies are communicated effectively to students and faculty.</li>
+                <li><strong>Student Success Initiatives:</strong> Implements programs and services aimed at promoting student success, including advising, tutoring, and academic support services. Collaborates with other departments to enhance the overall student experience.</li>
+                </ul>"
+    2:
+      name: Office of Student Affairs
+      overview: The Office of Student Affairs is dedicated to supporting student life and enhancing the overall university experience through a range of programs and services designed to promote student engagement, well-being, and success.
+      body: "<p>The Office of Student Affairs is dedicated to supporting student life and enhancing the overall university experience through a range of programs and services designed to promote student engagement, well-being, and success.</p>
+                <ul>
+                <li><strong>Student Services:</strong> Provides essential services such as academic advising, counseling, health services, and career development. The Office aims to address students' holistic needs and support their personal and academic growth.</li>
+                <li><strong>Student Engagement:</strong> Facilitates student involvement in campus life through organizations, clubs, and extracurricular activities. Organizes events, workshops, and leadership development programs that foster a vibrant campus community.</li>
+                <li><strong>Diversity and Inclusion:</strong> Promotes a diverse and inclusive campus environment by implementing initiatives and programs that celebrate multiculturalism and support underrepresented student populations.</li>
+                <li><strong>Crisis Management:</strong> Develops and implements policies related to student conduct and crisis management. The Office works to create a safe and supportive environment for all students, addressing any issues that may arise during their academic journey.</li>
+                </ul>"
+  campus:
+    0:
+      name: North Campus
+      overview: North Campus is the heart of our university, featuring cutting-edge facilities and vibrant student life.
+      body: "<p>North Campus serves as the bustling core of our university, featuring state-of-the-art facilities, a lively student community, and a diverse range of academic resources.</p>
+                <h2><strong>Location</strong></h2>
+                <p>Located at the northern edge of the university grounds, North Campus is easily accessible and centrally positioned. Easily reachable by multiple transportation options, including campus shuttle services, public buses, and bicycle paths. The campus is well-connected to major roads and residential areas, ensuring convenient access for students and visitors.</p>
+                <h2><strong>Features</strong></h2>
+                <ul>
+                <li><strong>Main Library:</strong> A comprehensive resource center with an extensive collection of books, journals, and digital resources. Includes quiet study zones and group collaboration rooms.</li>
+                <li><strong>Science Labs:</strong> Cutting-edge laboratories equipped for research in various scientific disciplines, including biology, chemistry, and physics.</li>
+                <li><strong>Administrative Building:</strong> Houses the university&rsquo;s central administration, including admissions, registrar services, and student affairs offices.</li>
+                <li><strong>Lecture Halls and Seminar Rooms:</strong> Modern spaces designed for interactive learning and guest lectures, featuring advanced audiovisual technology.</li>
+                </ul>
+                <h2><strong>Amenities</strong></h2>
+                <ul>
+                <li><strong>Dining Options:</strong> A variety of cafes, food courts, and restaurants offering diverse cuisines to cater to all tastes and dietary needs.</li>
+                <li><strong>Student Center:</strong> A hub for student activities, including clubs, organizations, and events. Features a game room, study lounges, and meeting spaces.</li>
+                <li><strong>Fitness Center:</strong> Equipped with cardio machines, free weights, and group fitness classes to support students&rsquo; health and well-being.</li>
+                <li><strong>Outdoor Areas:</strong> Beautiful gardens and seating areas where students can relax, socialize, and enjoy the outdoors.</li>
+                </ul>
+                <h2><strong>Special Programs</strong></h2>
+                <p>North Campus is known for hosting major academic conferences, career fairs, and cultural events, fostering a dynamic and engaging environment for students. It also hosts national and international conferences on diverse topics, attracting leading scholars and industry experts. These events provide students with opportunities to engage with cutting-edge research and network with professionals.</p>
+                <h2><strong>Contact</strong></h2>
+                <p>For more information or to schedule a visit, visit the <a href="##">North Campus Office</a> or call (123) 456-7891. Our staff is available to assist you with any inquiries or needs.</p>"
+    1:
+      name: South Campus
+      overview: South Campus provides a tranquil setting dedicated to the arts and humanities, offering specialized facilities and a nurturing environment for creative expression and academic exploration.
+      body: "<p>South Campus provides a tranquil setting dedicated to the arts and humanities, offering specialized facilities and a nurturing environment for creative expression and academic exploration.</p>
+                <h2>Location</h2>
+                <p>Nestled at the southern end of the university, South Campus is surrounded by picturesque parks and green spaces, providing a serene backdrop for academic pursuits. Nestled near expansive parks and green belts, South Campus offers a serene and inspiring backdrop for students. The campus is designed to integrate seamlessly with the surrounding natural landscape, enhancing the overall campus experience.</p>
+                <h2>Features</h2>
+                <ul>
+                <li><strong>Arts and Humanities Buildings:</strong> Designed to inspire creativity, these buildings include art studios, practice rooms, and exhibition spaces. Theatres and performance halls support various artistic disciplines.</li>
+                <li><strong>Study Areas:</strong> Quiet, well-designed spaces conducive to focused study and research, complemented by a library with a collection specialized in literature, arts, and humanities.</li>
+                <li><strong>Cafes and Creative Spaces:</strong> Numerous cafes offer a relaxed atmosphere for socializing and brainstorming, while creative spaces provide opportunities for collaborative projects and artistic development.</li>
+                </ul>
+                <h2>Amenities</h2>
+                <ul>
+                <li><strong>Outdoor Amphitheater:</strong> A venue for open-air performances, lectures, and community events, enhancing the cultural vibrancy of the campus.</li>
+                <li><strong>Art Galleries:</strong> Regular exhibitions showcase student and faculty artwork, providing a platform for creative expression and appreciation.</li>
+                <li><strong>Wellness Center:</strong> Offers workshops, counseling services, and wellness programs tailored to support the mental and emotional well-being of students.</li>
+                </ul>
+                <h2>Special Programs</h2>
+                <p>South Campus is renowned for its annual arts festival, creative workshops, and student-run art projects, creating a dynamic environment for artistic and intellectual growth. Organizes large-scale career fairs that connect students with potential employers across various fields, offering workshops on resume writing, interview skills, and career planning.</p>
+                <h2>Contact</h2>
+                <p>For more details or to explore South Campus, visit the <a href="##">South Campus Office</a> or call (987) 654-3210. We are here to provide support and answer any questions you may have.</p>"
+    2:
+      name: East Campus
+      overview: East Campus is at the forefront of technological innovation and research, offering advanced facilities and a collaborative environment for students engaged in technology and engineering studies.
+      body: "<p>East Campus is at the forefront of technological innovation and research, offering advanced facilities and a collaborative environment for students engaged in technology and engineering studies.</p>
+                  <h2>Location</h2>
+                  <p>Situated to the east of the main university area, East Campus is strategically located near technology industry partners and research institutions. Located in a vibrant district with a range of amenities, including cafes, tech-focused businesses, and recreational facilities. This ensures that students have access to resources and services that complement their academic and professional interests.</p>
+                  <h2>Features</h2>
+                  <ul>
+                  <li><strong>Engineering and Technology Labs:</strong> Equipped with the latest tools and equipment for research and hands-on learning in fields such as robotics, computer science, and electrical engineering.</li>
+                  <li><strong>Innovation Hub:</strong> A collaborative space designed to foster entrepreneurship and innovation, featuring co-working areas, startup incubators, and networking events.</li>
+                  <li><strong>Research Centers:</strong> Focused on cutting-edge technologies and interdisciplinary research, these centers provide opportunities for students to engage in groundbreaking projects and studies.</li>
+                  </ul>
+                  <h2>Amenities</h2>
+                  <ul>
+                  <li><strong>Robotics and Simulation Labs:</strong> Specialized facilities for experimenting with robotics, artificial intelligence, and simulations, supporting advanced research and learning.</li>
+                  <li><strong>Technology-Driven Learning Environments:</strong> Interactive classrooms and labs that incorporate the latest technology to enhance the educational experience.</li>
+                  <li><strong>Industry Partnerships:</strong> Opportunities for students to connect with industry leaders, participate in internships, and gain practical experience through collaborations with technology companies.</li>
+                  </ul>
+                  <h2>Special Programs</h2>
+                  <p>East Campus is known for its tech incubators, research seminars, and industry partnerships, providing students with valuable opportunities to engage with the tech community and advance their careers. Regularly hosts seminars and workshops focused on emerging technologies, research methodologies, and industry trends, featuring guest speakers from leading tech companies and research institutions.</p>
+                  <h2>Contact</h2>
+                  <p>For more information or to learn more about East Campus, visit the <a href="#" rel="noopener">East Campus Office</a> or call (555) 123-4567. Our team is ready to assist you with any questions or information you need.</p>"
+  accommodation:
+    0:
+      name: On-Campus Accommodations
+      overview: Living on campus offers students the chance to be close to their classes, facilities, and student life.
+      body: "<p>Living on campus offers students the chance to be close to their classes, facilities, and student life. We offer a variety of residence halls, each with unique amenities, to meet different student needs.</p>
+                  <p>Living on campus provides a dynamic, supportive, and convenient environment that allows students to immerse themselves in university life. With a variety of housing options, we ensures that all students can find a comfortable place to call home during their studies.</p>
+                  <h2>Residence Halls</h2>
+                  <p>Our campus offers multiple residence halls, each designed to foster a sense of community and provide students with easy access to university resources.</p>
+                  <p><strong>1. Standard Dormitory Rooms</strong></p>
+                  <ul>
+                  <li>Single Rooms: Private rooms for students who value their own space. These rooms are furnished with a bed, desk, chair, wardrobe, and a personal study area.</li>
+                  <li>Shared Rooms: Designed for two to three students, these rooms provide a social living experience while still offering ample personal space. Roommates are matched based on interests, and each room includes individual study areas.</li>
+                  </ul>
+                  <p><strong>2. Suite-Style Rooms</strong></p>
+                  <ul>
+                  <li>Suites accommodate four to six students, with private bedrooms and shared living spaces, including a common area and a kitchenette. Ideal for students who want both privacy and a communal environment.</li>
+                  </ul>
+                  <p><strong>3. Apartment-Style Residences</strong></p>
+                  <ul>
+                  <li>Fully equipped with kitchens, living rooms, and bathrooms, our apartment-style residences are perfect for upperclassmen or students seeking more independence. Each apartment houses two to four students, offering a more self-sufficient lifestyle while still being close to campus facilities.</li>
+                  </ul>
+                  <h2>Amenities</h2>
+                  <p>All on-campus accommodations include a range of amenities to enhance the student living experience:</p>
+                  <ul>
+                  <li>High-Speed Internet: Unlimited access to fast internet, making it easy for students to stay connected with academic resources.</li>
+                  <li>Study Lounges: Quiet spaces on every floor for individual or group study sessions.</li>
+                  <li>Common Areas: Social lounges and recreational spaces for relaxing and engaging with other residents.</li>
+                  <li>On-Site Dining: Each residence hall has access to nearby dining halls or on-site cafeterias, offering a wide variety of meal options.</li>
+                  <li>Laundry Facilities: Conveniently located laundry rooms in each building, operated via mobile app or student ID cards.</li>
+                  <li>24/7 Security: Campus security patrols and keycard access to ensure the safety of all residents.</li>
+                  <li>Maintenance Support: A dedicated team available for repairs or maintenance needs.</li>
+                  </ul>"
+    1:
+      name: Off-Campus Accommodations
+      overview: Our university works closely with local property owners and real estate agents to help students find housing near campus.
+      body: "<p>For students seeking independence and a more personalized living experience, off-campus accommodations provide a range of housing options. Our university works closely with local property owners and real estate agents to help students find safe, affordable, and convenient housing near campus.</p>
+                  <h2><strong>Types of</strong> Off-Campus <strong>Housing</strong></h2>
+                  <p><strong>1. Private Apartments</strong></p>
+                  <ul>
+                  <li><strong>Studio Apartments</strong>: Ideal for students who prefer living alone, these apartments feature a combined living and sleeping area, a small kitchen, and a private bathroom.</li>
+                  <li><strong>One-Bedroom Apartments</strong>: Suitable for those who desire more space and separation between living and sleeping areas, with a full kitchen and bathroom.</li>
+                  <li><strong>Two-Bedroom Apartments</strong>: Perfect for students who want to share living costs with a roommate or two. These apartments typically include a shared living room, kitchen, and bathroom.</li>
+                  </ul>
+                  <p><strong>2. Shared Houses</strong></p>
+                  <ul>
+                  <li><strong>House Shares</strong>: Students can rent individual rooms in larger houses shared with other students. These houses often come with communal living areas, kitchens, and multiple bathrooms.</li>
+                  <li><strong>Student Houses</strong>: Specifically geared towards student living, these houses offer a supportive environment with amenities tailored to student needs, often located close to campus or public transport links.</li>
+                  </ul>
+                  <p><strong>3. Student Housing Complexes</strong></p>
+                  <ul>
+                  <li><strong>Purpose-Built Student Accommodation (PBSA)</strong>: Modern complexes designed with student needs in mind, offering furnished rooms, communal spaces, and amenities such as on-site management, laundry facilities, and social events.</li>
+                  </ul>
+                  <h2><strong>Housing Services and Assistance</strong></h2>
+                  <p>Our Accommodation Office offers a range of services to support students in finding and securing off-campus housing:</p>
+                  <ul>
+                  <li><strong>Housing Listings</strong>: Access to a curated list of available off-campus properties through our online portal.</li>
+                  <li><strong>Landlord Matching</strong>: Assistance in connecting with reputable landlords and property managers.</li>
+                  <li><strong>Lease Guidance</strong>: Help with understanding lease agreements, tenant rights, and responsibilities.</li>
+                  <li><strong>Maintenance and Support</strong>: Resources for addressing maintenance issues and resolving disputes with landlords.</li>
+                  </ul>"
+    2:
+      name: Family Housing
+      overview: Our Family Housing program is designed to provide a comfortable, safe, and supportive environment for those living with partners and children.
+      body: "<p>At our University, we understand that many of our students may have families to support while pursuing their education. Our Family Housing options provide a safe, comfortable, and nurturing environment for students and their families. We are committed to ensuring that your living experience enhances both your academic journey and family life.</p>
+                  <h2>Family Housing Features</h2>
+                  <ol>
+                  <li>
+                  <p><strong>Spacious Apartments</strong></p>
+                  <ul>
+                  <li>Our family housing units are designed to accommodate families of various sizes, offering one- and two-bedroom apartments.</li>
+                  <li>Each unit includes essential amenities such as a kitchen, living area, and private bathrooms.</li>
+                  </ul>
+                  </li>
+                  <li>
+                  <p><strong>Community Amenities</strong></p>
+                  <ul>
+                  <li>Family Housing includes access to playgrounds, picnic areas, and community gardens, fostering a family-friendly atmosphere.</li>
+                  <li>Residents can participate in family-oriented events and activities, creating opportunities to connect with other families.</li>
+                  </ul>
+                  </li>
+                  <li>
+                  <p><strong>Convenient Location</strong></p>
+                  <ul>
+                  <li>Family Housing is conveniently located near campus, with easy access to public transportation, shopping centers, and local services.</li>
+                  <li>Students can enjoy a short commute to classes while having the comforts of home.</li>
+                  </ul>
+                  </li>
+                  <li>
+                  <p><strong>Support Services</strong></p>
+                  <ul>
+                  <li>Our Family Housing program provides resources and support for families, including workshops, parenting classes, and counseling services.</li>
+                  <li>We strive to create a supportive community where families can thrive together.</li>
+                  </ul>
+                  </li>
+                  </ol>
+                  <h2>Application Process</h2>
+                  <p>To apply for Family Housing, please visit our contact page or visit the Housing Office at our college. We encourage you to explore our accommodations and find the perfect home for you and your family while you pursue your educational goals.</p>"
+
+
+  courses:
+    requirements: "
+                      <ul>
+                      <li>General familiarity with foundational concepts in the relevant field.</li>
+                      <li>Ability to analyze, evaluate, and synthesize information effectively.</li>
+                      <li>Proficiency in reading, writing, and verbal communication</li>
+                      <li> Active engagement in group discussions and collaborative activities.</li>
+                      </ul>
+                      "
+    details: "This course provides a comprehensive introduction to %{name}, designed to equip students with a solid understanding of the concept. Through a combination of lectures, discussions, and hands-on activities, students will explore fundamental principles, methodologies, and applications related to the field. The course emphasizes critical thinking, problem-solving, and real-world applications, preparing students for further study or professional practice in %{name}"
+    what_learn: "<ul>
+                     <li>Understand the core concepts of %{name}.</li>
+                     <li>Apply theoretical knowledge to practical problems and case studies.</li>
+                     <li>Develop analytical and critical thinking skills.</li>
+                     <li>Collaborate on projects and participate in group discussions.</li>
+                     <li>Gain insight into the latest trends and developments in %{name}.</li>
+                     </ul>
+                    "
+  cities:
+    0: Skyhaven
+    1: Eldoria
+    2: Silverhold
+    3: Valoria
+    4: Nimbar
+    5: Solara
+  attributes:
+    assessment_methods: Assessment Methods
+    class_size: Class Size
+    language: Language
+    credits: Credits
+    duration: Duration
+    delivery_mode: Delivery Mode
+    format: Format
+    certification: Certification
+    learning_resources: Learning Resources
+  levels:
+    0: First Level
+    1: Second Level
+    2: Third Level
+  colleges:
+    0:
+      name: College of Arts and Humanities
+      overview: This college prepares students for a wide range of careers by providing them with a strong foundation in the arts and humanities.
+      departments:
+        0:
+          name: Department of English and Literature
+          overview: The Department of English and Literature explores the richness of written and spoken language through the study of literary texts, critical theory, and creative writing.
+          courses:
+            0:
+              name: Introduction to Literary Studies
+              overview: This course provides a foundation in literary analysis and introduces students to various literary genres and critical theories.
+              chapters:
+                0:
+                  name: Foundations of Literary Analysis
+                  lessons:
+                    0: Understanding Literary Genres
+                    1: Elements of Fiction
+                    2: Basic Literary Terms and Concepts
+                1:
+                  name: Historical Perspectives on Literature
+                  lessons:
+                    0: Overview of Literary Periods
+                    1: Key Authors and Movements
+                    2: Historical Context and Its Impact on Literature
+                2:
+                  name: Critical Approaches to Literature
+                  lessons:
+                    0: Introduction to Literary Criticism
+                    1: Theoretical Approaches
+                    2: Applying Critical Theories to Texts
+            1:
+              name: Modern American Literature
+              overview: This course explores major American literary works from the late 19th century to the present, focusing on themes, styles, and historical contexts.
+              chapters:
+                0:
+                  name: The Rise of Modernism
+                  lessons:
+                    0: Key Modernist Authors
+                    1: Themes of Modernism
+                    2: Modernist Techniques
+                1:
+                  name: The Harlem Renaissance
+                  lessons:
+                    0: Overview of the Harlem Renaissance Movement
+                    1: Major Figures
+                    2: Themes and Contributions to American Literature
+                2:
+                  name: Contemporary American Voices
+                  lessons:
+                    0: Postmodernism and Its Characteristics
+                    1: Diverse Perspectives
+                    2: Analyzing Contemporary Works
+            2:
+              name: Shakespearean Drama
+              overview: This course delves into the works of William Shakespeare, examining his plays' themes, characters, and dramatic techniques.
+              chapters:
+                0:
+                  name: The Tragedies
+                  lessons:
+                    0: Overview of Shakespeare’s Tragedies
+                    1: Themes of Tragedy
+                    2: Character Analysis
+                1:
+                  name: The Comedies
+                  lessons:
+                    0: Overview of Shakespeare’s Comedies
+                    1: Themes of Comedy
+                    2: Comic Techniques
+                2:
+                  name: The Histories and Their Context
+                  lessons:
+                    0: Overview of Shakespeare’s Historical Plays
+                    1: Historical Context and Accuracy
+                    2: Analysis of Political Themes and Historical Representation
+
+        1:
+          name: Department of History
+          overview: The Department of History investigates past events, societies, and cultures, providing insights into how they have shaped the present.
+          courses:
+            0:
+              name: World History - Ancient to Modern
+              overview: This course provides a broad survey of major historical events and developments from ancient civilizations to the modern era.
+              chapters:
+                0:
+                  name: Ancient Civilizations
+                  lessons:
+                    0: Mesopotamia and the Cradle of Civilization (Sumerians, Akkadians)
+                    1: Ancient Egypt - Society, Culture, and Innovations
+                    2: The Indus Valley and Early Indian Cultures
+                1:
+                  name: Medieval and Renaissance Eras
+                  lessons:
+                    0: The Fall of the Roman Empire and the Rise of Byzantium
+                    1: The Middle Ages in Europe - Feudalism and the Church
+                    2: The Renaissance and the Rebirth of Classical Learning
+                2:
+                  name: The Modern World
+                  lessons:
+                    0: The Age of Exploration and Colonialism
+                    1: The Industrial Revolution and Its Global Impact
+                    2: The World Wars and Their Aftermath
+            1:
+              name: History From Colonization to the Present
+              overview: This course examines the history of the United States from early colonization through contemporary issues and events.
+              chapters:
+                0:
+                  name: Colonial America and the Revolution
+                  lessons:
+                    0: Early Colonization and Settlements
+                    1: The Road to Independence
+                    2: The American Revolution and the Formation of the United States
+                1:
+                  name: Expansion and Civil War
+                  lessons:
+                    0: Westward Expansion and Manifest Destiny
+                    1: The Civil War - Causes, Major Battles, and Outcomes
+                    2: Reconstruction and Its Challenges
+                2:
+                  name: The 20th Century and Beyond
+                  lessons:
+                    0: The Great Depression and the New Deal
+                    1: The Cold War and American Foreign Policy
+                    2: Contemporary Issues - Civil Rights, Technology, and Globalization
+            2:
+              name: European History - From the Middle Ages to the Present
+              overview: This course explores significant events, movements, and figures in European history from the medieval period to the modern era.
+              chapters:
+                0:
+                  name: The Medieval Period
+                  lessons:
+                    0: The Fall of Rome and the Rise of Medieval Europe
+                    1: Feudalism and the Role of the Church
+                    2: The Crusades and Their Impact on Europe
+                1:
+                  name: The Renaissance and Reformation
+                  lessons:
+                    0: The Renaissance - Art, Science, and Humanism
+                    1: The Reformation and Religious Conflicts
+                    2: The Age of Exploration and Its Consequences
+                2:
+                  name: Modern Europe
+                  lessons:
+                    0: The Enlightenment and the Rise of Democracy
+                    1: The World Wars and the Interwar Period
+                    2: Post-War Europe - The Cold War and European Integration
+        2:
+          name: Department of Philosophy
+          overview: The Department of Philosophy engages with fundamental questions about existence, knowledge, values, and reason, fostering analytical and critical thinking.
+          courses:
+            0:
+              name: Introduction to Philosophy
+              overview: This course introduces students to fundamental philosophical concepts, questions, and methods of inquiry.
+              chapters:
+                0:
+                  name: What is Philosophy?
+                  lessons:
+                    0: Definition and Scope of Philosophy
+                    1: Branches of Philosophy
+                    2: The Role of Logic and Argumentation in Philosophy
+                1:
+                  name: Major Philosophical Questions
+                  lessons:
+                    0: What is Knowledge? (Epistemology)
+                    1: What is Reality? (Metaphysics)
+                    2: What is the Good Life? (Ethics)
+                2:
+                  name: Historical Overview of Western Philosophy
+                  lessons:
+                    0: Ancient Philosophy (Socrates, Plato, Aristotle)
+                    1: Medieval Philosophy (Augustine, Aquinas)
+                    2: Modern Philosophy (Descartes, Hume, Kant)
+            1:
+              name: Ethics - Theories and Applications
+              overview: This course explores various ethical theories and their application to contemporary moral issues.
+              chapters:
+                0:
+                  name: Theoretical Foundations of Ethics
+                  lessons:
+                    0: Utilitarianism
+                    1: Deontological Ethics
+                    2: Virtue Ethics
+                1:
+                  name: Ethical Issues in Personal Life
+                  lessons:
+                    0: The Ethics of Honesty and Deception
+                    1: Moral Responsibility and Free Will
+                    2: The Ethics of Love and Friendship
+                2:
+                  name: Ethical Issues in Society
+                  lessons:
+                    0: Social Justice and Human Rights
+                    1: Environmental Ethics and Sustainability
+                    2: Bioethics - Medical and Technological Dilemmas
+            2:
+              name: Philosophy of Mind
+              overview: This course examines the nature of the mind, consciousness, and their relationship to the physical world.
+              chapters:
+                0:
+                  name: The Mind-Body Problem
+                  lessons:
+                    0: Dualism (Descartes and Substance Dualism)
+                    1: Physicalism (Mind-Brain Identity Theory)
+                    2: Alternative Views (Functionalism, Property Dualism)
+                1:
+                  name: Consciousness
+                  lessons:
+                    0: The Nature of Conscious Experience
+                    1: The Hard Problem of Consciousness
+                    2: Theories of Consciousness
+                2:
+                  name: Mental States and Their Content
+                  lessons:
+                    0: Intentionality and Mental Representation
+                    1: Emotions and Their Philosophical Significance
+                    2: The Self and Personal Identity
+    1:
+      name: School of Engineering
+      overview: The school is dedicated to advancing technology and solving  complex problems through research, education, and collaboration.
+      departments:
+        0:
+          name: Department of Electrical Engineering
+          overview: Focuses on circuits, systems, and signal processing, with strong ties to the tech industry.
+          courses:
+            0:
+              name: Circuit Analysis
+              overview: This course provides a comprehensive introduction to the principles and techniques used in the analysis of electrical circuits.
+              chapters:
+                0:
+                  name: Basic Concepts in Circuit Analysis
+                  lessons:
+                    0: Introduction to Electric Circuits
+                    1: Electrical Quantities and Units
+                    2: Ohm's Law
+                1:
+                  name: Network Theorems and Methods
+                  lessons:
+                    0: Thevenin's Theorem
+                    1: Norton's Theorem
+                    2: Maximum Power Transfer Theorem
+                2:
+                  name: Transient Analysis of Circuits
+                  lessons:
+                    0: Introduction to Transient Analysis
+                    1: Laplace Transform in Circuit Analysis
+                    2: Applications of Transient Analysis
+            1:
+              name: Electromagnetics
+              overview: Study of electric and magnetic fields, their interactions, and applications in communication, power systems, and electronics.
+              chapters:
+                0:
+                  name: Fundamentals of Electromagnetics
+                  lessons:
+                    0: Introduction to Electromagnetics
+                    1: Vector Analysis
+                    2: Solution of Electrostatic Problems
+                1:
+                  name: Time-Varying Fields and Maxwell's Equations
+                  lessons:
+                    0: Displacement Current and Maxwell's Equations
+                    1: Wave Propagation in Free Space
+                    2: Wave Propagation in Materials
+                2:
+                  name: Electromagnetic Radiation and Antennas
+                  lessons:
+                    0: Radiation from Accelerating Charges
+                    1: Antenna Parameters
+                    2: Propagation of Radio Waves
+            2:
+              name: Control Systems
+              overview: Focuses on feedback mechanisms, system stability, control strategies, and real-time adjustments to optimize system performance
+              chapters:
+                0:
+                  name: Introduction to Control Systems
+                  lessons:
+                    0: Overview of Control Systems
+                    1: Mathematical Models of Systems
+                    2: Control System Performance Metrics
+                1:
+                  name: Frequency-Domain Analysis
+                  lessons:
+                    0: Frequency Response and Bode Plots
+                    1: Control System Design in the Frequency Domain
+                    2: Frequency-Domain System Design
+                2:
+                  name: Advanced Topics in Control Systems
+                  lessons:
+                    0: Nonlinear Control Systems
+                    1: Adaptive Control Systems
+                    2: Multivariable Control Systems
+        1:
+          name: Department of Computer Science
+          overview: Offers cutting-edge research in algorithms, artificial intelligence, and computer systems.
+          courses:
+            0:
+              name: Computer Architecture
+              overview: This course provides an in-depth study of the fundamental concepts and principles of computer architecture.
+              chapters:
+                0:
+                  name: Fundamentals of Computer Architecture
+                  lessons:
+                    0: Introduction to Computer Systems
+                    1: Performance Evaluation and Optimization
+                    2: Memory Hierarchy and Storage
+                1:
+                  name: Memory Systems
+                  lessons:
+                    0: Memory Organization and Hierarchy
+                    1: Cache Memory Design and Storage Systems
+                    2: Main Memory Technologies
+                2:
+                  name: Advanced Topics in Computer Architecture
+                  lessons:
+                    0: Parallel and Distributed Computing
+                    1: Power and Thermal Management
+                    2: Emerging Technologies and Trends
+            1:
+              name: Networks and Communications
+              overview: Students will explore network design, protocols, and performance optimization, focusing on both theoretical concepts and practical applications
+              chapters:
+                0:
+                  name: Introduction to Networking
+                  lessons:
+                    0: Basics of Networking
+                    1: Network Protocols and Standards
+                    2: Network Devices and Components
+                1:
+                  name: Network Protocols and Communication
+                  lessons:
+                    0: Principles of wireless communication
+                    1: Examples of network management systems
+                    2: Principles of scalable network design
+                2:
+                  name: Network Security
+                  lessons:
+                    0: Advanced Network Security Concepts
+                    1: Cryptography and Encryption
+                    2: Firewalls and Network Access Control
+            2:
+              name: Software Engineering
+              overview: Covers the entire software development lifecycle, including requirements gathering, system design, implementation, testing, deployment, and maintenance
+              chapters:
+                0:
+                  name: Introduction to Software Engineering
+                  lessons:
+                    0: Software Engineering Fundamentals
+                    1: Software Development Models
+                    2: Software Development Tools
+                1:
+                  name: System Design and Architecture
+                  lessons:
+                    0: Design Principles and Patterns
+                    1: Database Design and Management
+                    2: Software Reuse and Maintenance
+                2:
+                  name: Project Management and Deployment
+                  lessons:
+                    0: Software Project Management
+                    1: Software Development Lifecycle (SDLC) Models
+                    2: Software Configuration Management
+        2:
+          name: Department of Civil Engineering
+          overview: Involves the design, construction, and maintenance of infrastructure projects like roads and buildings.
+          courses:
+            0:
+              name: Structural Analysis
+              overview: This course introduces the fundamental principles and methods used in the analysis of structural systems.
+              chapters:
+                0:
+                  name: Introduction to Structural Analysis
+                  lessons:
+                    0: Basics of Structural Engineering
+                    1: Introduction to Structural Analysis Software
+                    2: Structural Systems and Loadings
+                1:
+                  name: Analysis of Beams and Continuous Structures
+                  lessons:
+                    0: Beam Theory and Analysis
+                    1: Deflection of Beams
+                    2: Structural Dynamics Basics
+                2:
+                  name: Advanced Topics in Structural Analysis
+                  lessons:
+                    0: Finite Element Analysis
+                    1: Nonlinear Structural Analysis
+                    2: Dynamic Response of Structures
+            1:
+              name: Geotechnical Engineering
+              overview: The course emphasizes practical applications and real-world problem-solving, preparing students to address geotechnical challenges in construction and civil engineering projects.
+              chapters:
+                0:
+                  name: Introduction to Geotechnical Engineering
+                  lessons:
+                    0: Definition and importance of geotechnical engineering
+                    1: Soil Formation and Classification
+                    2: Fundamental principles of soil mechanics
+                1:
+                  name: Soil Reinforcement and Ground Improvement
+                  lessons:
+                    0: Methods for soil reinforcement (geotextiles, soil nails)
+                    1: Examples of soil reinforcement and ground improvement
+                    2: Design and application of ground improvement techniques
+                2:
+                  name: Geotechnical Risk and Site Assessment
+                  lessons:
+                    0: Principles of geotechnical risk management
+                    1: Site characterization methods and procedures
+                    2: Groundwater and Soil-Water Interactions
+            2:
+              name: Environmental Engineering
+              overview: The course emphasizes sustainable practices and technologies to address environmental challenges and ensure public health and safety.
+              chapters:
+                0:
+                  name: Introduction to Environmental Engineering
+                  lessons:
+                    0: Definition and scope of environmental engineering
+                    1: Environmental Systems and Processes
+                    2: Sustainability and Environmental Management
+                1:
+                  name: Water and Wastewater Treatment
+                  lessons:
+                    0: Water Quality and Standards
+                    1: Water Treatment Processes
+                    2: Technologies for water reclamation
+                2:
+                  name: Air Quality and Pollution Control
+                  lessons:
+                    0: Air Quality Fundamentals
+                    1: Air Pollution Control Technologies
+                    2: Climate Change and Greenhouse Gases
+    2:
+      name: Faculty of Natural Sciences
+      overview: This faculty aims to cultivate a deep understanding of natural phenomena, foster scientific literacy, and prepare students for careers in science and technology.
+      departments:
+        0:
+          name: Department of Biological Sciences
+          overview: This department covers a wide range of topics, from the molecular and cellular levels to entire ecosystems.
+          courses:
+            0:
+              name: Microbiology
+              overview: Study of microorganisms, including bacteria, viruses, fungi, and protozoa, and their roles in health, disease, and ecology.
+              chapters:
+                0:
+                  name: Introduction to Microbiology
+                  lessons:
+                    0: History and Scope of Microbiology
+                    1: Microbial Structure and Function
+                    2: Microbial Growth and Cultivation
+                1:
+                  name: Virology
+                  lessons:
+                    0: Virus Structure and Classification
+                    1: Viral Replication and Life Cycles
+                    2: Antiviral Drugs and Vaccines
+                2:
+                  name: Mycology
+                  lessons:
+                    0: Fungal Cell Structure and Function
+                    1: Fungal Genetics and Development
+                    2: Mycotoxins and Antifungal Agents
+            1:
+              name: Evolutionary Biology
+              overview: Analysis of the processes and mechanisms of evolution, including natural selection, genetic drift, and speciation.
+              chapters:
+                0:
+                  name: Introduction to Evolutionary Biology
+                  lessons:
+                    0: History and Foundations of Evolutionary Theory
+                    1: Evidence for Evolution
+                    2: Evolutionary Genetics
+                1:
+                  name: Evolution of Life Forms
+                  lessons:
+                    0: Origins of Life
+                    1: Evolution of Prokaryotes
+                    2: Human Evolution
+                2:
+                  name: Advanced Topics in Evolutionary Biology
+                  lessons:
+                    0: Evolutionary Developmental Biology (Evo-Devo)
+                    1: Phylogenetics and Tree of Life
+                    2: Future Directions in Evolutionary Biology
+            2:
+              name: Genetics
+              overview: Exploration of heredity, gene function, and genetic variation, including modern techniques in genetic analysis and manipulation.
+              chapters:
+                0:
+                  name: Introduction to Genetics
+                  lessons:
+                    0: Overview of Genetics
+                    1: Genetic Variation and Mutation
+                    2: Genetic Recombination and Linkage
+                1:
+                  name: Molecular Genetics
+                  lessons:
+                    0: DNA Structure and Function
+                    1: Gene Expression and Regulation
+                    2: Genetic Engineering and Biotechnology
+                2:
+                  name: Human Genetics
+                  lessons:
+                    0: Human Genetic Disorders
+                    1: Genetic Basis of Human Diseases
+                    2: Ethics and Social Implications of Genetics
+        1:
+          name: Department of Chemistry
+          overview: The Department of Chemistry focuses on the composition, structure, properties, and reactions of matter.
+          courses:
+            0:
+              name: Organic Chemistry
+              overview: Studies the structure, properties, and reactions of carbon-containing compounds and their derivatives.
+              chapters:
+                0:
+                  name: Introduction to Organic Chemistry
+                  lessons:
+                    0: Fundamentals of Organic Chemistry
+                    1: Organic Reactions and Mechanisms
+                    2: Synthesis and Reaction Strategies
+                1:
+                  name: Aromatic Compounds
+                  lessons:
+                    0: Structure and Stability of Aromatic Compounds
+                    1: Aromatic Substitution Reactions
+                    2: Synthesis of Aromatic Compounds
+                2:
+                  name: Advanced Topics in Organic Chemistry
+                  lessons:
+                    0: Organic Chemistry in Industry and Research
+                    1: Organocatalysis and Green Chemistry
+                    2: Natural Products and Medicinal Chemistry
+            1:
+              name: Analytical Chemistry
+              overview: Emphasizes techniques and instruments used to identify and quantify chemical substances.
+              chapters:
+                0:
+                  name: Fundamentals of Analytical Chemistry
+                  lessons:
+                    0: Introduction to Analytical Chemistry
+                    1: Statistical Methods in Analytical Chemistry
+                    2: Quality Assurance and Control
+                1:
+                  name: Electrochemical Analysis
+                  lessons:
+                    0: Electrochemical Cells and Potentiometry
+                    1: Overview of conductometry and its applications
+                    2: Electroanalytical Techniques in Environmental Analysis
+                2:
+                  name: Advanced Topics and Applications
+                  lessons:
+                    0: Surface Analysis Techniques
+                    1: Analytical Chemistry in Forensic Science
+                    2: Analytical Chemistry in Pharmaceutical Analysis
+            2:
+              name: Biochemistry
+              overview: Investigates the chemical processes and substances within living organisms, including proteins, nucleic acids, and metabolism.
+              chapters:
+                0:
+                  name: Introduction to Biochemistry
+                  lessons:
+                    0: Overview of Biochemistry
+                    1: Biomolecular Structure and Function
+                    2: Enzyme Structure and Function
+                1:
+                  name: Proteins and Enzymes
+                  lessons:
+                    0: Protein Structure and Function
+                    1: Enzyme Regulation and Inhibition
+                    2: Proteomics and Protein Engineering
+                2:
+                  name: Nucleic Acids and Genetic Information
+                  lessons:
+                    0: Structure and Function of Nucleic Acids
+                    1: DNA Replication and Repair
+                    2: Genetic Regulation and Epigenetics
+        2:
+          name: Department of Physics
+          overview: The Department of Physics aims to understand the fundamental laws of nature and how they govern the universe.
+          courses:
+            0:
+              name: Classical Mechanics
+              overview: Study of motion, forces, and energy in physical systems, from Newtonian mechanics to advanced dynamics.
+              chapters:
+                0:
+                  name: Newtonian Mechanics
+                  lessons:
+                    0: Introduction to Mechanics
+                    1: Newton's Laws of Motion
+                    2: Work, Energy, and Power
+                1:
+                  name: Systems of Particles and Rigid Bodies
+                  lessons:
+                    0: Center of Mass and Motion of a System of Particles
+                    1: Rotation of Rigid Bodies
+                    2: Rotation and Vibration in Rigid Bodies
+                2:
+                  name: Advanced Topics in Classical Mechanics
+                  lessons:
+                    0: Nonlinear Dynamics and Chaos
+                    1: Relativistic Mechanics
+                    2: Advanced Oscillatory Systems
+            1:
+              name: Quantum Mechanics
+              overview: Examination of the behavior of particles at atomic and subatomic levels, including wave functions and uncertainty principles.
+              chapters:
+                0:
+                  name: Introduction to Quantum Mechanics
+                  lessons:
+                    0: Historical Background and Fundamental Concepts
+                    1: The Schrödinger Equation
+                    2: Quantum States and Wavefunctions
+                1:
+                  name: Quantum Mechanics of Particles
+                  lessons:
+                    0: One-Dimensional Potential Problems
+                    1: The Hydrogen Atom
+                    2: Angular Momentum in Quantum Mechanics
+                2:
+                  name: Angular Momentum in Quantum Mechanics
+                  lessons:
+                    0: The Simple Harmonic Oscillator
+                    1: Quantum Harmonic Oscillator in Higher Dimensions
+                    2: Advanced Topics in Quantum Mechanics
+            2:
+              name: Thermodynamics and Statistical Mechanics
+              overview: Analysis of heat, work, and energy transfer, and the statistical behavior of systems in equilibrium.
+              chapters:
+                0:
+                  name: Introduction to Thermodynamics
+                  lessons:
+                    0: Basic Concepts and Definitions
+                    1: First Law of Thermodynamics
+                    2: Second Law of Thermodynamics
+                1:
+                  name: Statistical Mechanics Fundamentals
+                  lessons:
+                    0: Classical Statistical Mechanics
+                    1: Quantum Statistical Mechanics
+                    2: Phase Transitions and Critical Phenomena
+                2:
+                  name: Applications of Thermodynamics and Statistical Mechanics
+                  lessons:
+                    0: Chemical Thermodynamics
+                    1: Material Science and Thermodynamics
+                    2: Statistical Mechanics in Biological Systems
+    3:
+      name: Economics and Administrative Sciences
+      overview: The Faculty of Economics and Administrative Sciences typically includes several specialized departments, each focusing on different aspects of economics and business administration.
+      departments:
+        0:
+          name: Department of Economics
+          overview: The Department of Economics explores the principles and theories that underpin economic systems and behaviors.
+          courses:
+            0:
+              name: Microeconomics
+              overview: Analyzes individual economic agents' behavior, market structures, and decision-making processes.
+              chapters:
+                0:
+                  name: Introduction to Microeconomics
+                  lessons:
+                    0: Definition and scope of microeconomics
+                    1: Basic Economic Concepts
+                    2: Supply and Demand
+                1:
+                  name: Production and Costs
+                  lessons:
+                    0: Production Theory
+                    1: Cost Concepts
+                    2: Cost Curves and Their Analysis
+                2:
+                  name: Market Structures
+                  lessons:
+                    0: Perfect Competition
+                    1: Monopolistic Competition
+                    2: Market Failures and Government Intervention
+            1:
+              name: International Economics
+              overview: International economics examines how countries interact through trade, investment, and finance, influencing global economic growth, policies, and relationships.
+              chapters:
+                0:
+                  name: Introduction to International Economics
+                  lessons:
+                    0: Overview of International Economics
+                    1: Global Trade and Economic Integration
+                    2: International Trade Theories
+                1:
+                  name: International Trade and Investment
+                  lessons:
+                    0: International Trade Mechanics
+                    1: Trade and Investment Policies
+                    2: Regional Trade Agreements
+                2:
+                  name: International Finance
+                  lessons:
+                    0: Foreign Exchange Markets
+                    1: Exchange Rate Systems
+                    2: International Financial Crises
+            2:
+              name: Development Economics
+              overview: Focuses on economic development issues in low-income countries, including poverty, inequality, and policy interventions.
+              chapters:
+                0:
+                  name: Introduction to Development Economics
+                  lessons:
+                    0: Overview of Development Economics
+                    1: Economic Growth Theories
+                    2: Development Indicators and Measurement
+                1:
+                  name: Poverty and Inequality
+                  lessons:
+                    0: Inequality and Economic Growth
+                    1: Poverty Alleviation Strategies
+                    2: Social Exclusion and Inequality
+                2:
+                  name: Development Policies and Planning
+                  lessons:
+                    0: Development Policy Frameworks
+                    1: Economic Development Planning
+                    2: Role of International Aid and Organizations
+        1:
+          name: Department of Business Administration
+          overview: The Department of Business Administration provides insights into the principles and practices of managing and operating businesses.
+          courses:
+            0:
+              name: Principles of Management
+              overview: Covers fundamental management theories, practices, and organizational behavior to effectively lead and manage teams.
+              chapters:
+                0:
+                  name: Introduction to Management
+                  lessons:
+                    0: Overview of Management
+                    1: Management Functions and Roles
+                    2: Management Theories and Approaches
+                1:
+                  name: Planning and Strategic Management
+                  lessons:
+                    0: Introduction to Planning
+                    1: Strategic Management
+                    2: Organizational Structure and Design
+                2:
+                  name: Controlling and Performance Evaluation
+                  lessons:
+                    0: Evaluating Management Effectiveness
+                    1: Financial and Operational Control
+                    2: Quality Control and Improvement
+            1:
+              name: Marketing Management
+              overview: Examines strategies and tools for market analysis, product development, and promotional tactics to drive business growth.
+              chapters:
+                0:
+                  name: Introduction to Marketing Management
+                  lessons:
+                    0: Overview of Marketing Management
+                    1: Marketing Strategy and Planning
+                    2: Market Segmentation and Targeting
+                1:
+                  name: Product and Service Management
+                  lessons:
+                    0: Product Development and Innovation
+                    1: Brand Management
+                    2: Product Pricing Strategies
+                2:
+                  name: Promotion and Advertising
+                  lessons:
+                    0: Promotion Mix and Strategies
+                    1: Advertising Management
+                    2: Sales Promotion and Public Relations
+            2:
+              name: Financial Accounting
+              overview: Focuses on recording, summarizing, and analyzing financial transactions to prepare and interpret financial statements.
+              chapters:
+                0:
+                  name: Introduction to Financial Accounting
+                  lessons:
+                    0: Overview of Financial Accounting
+                    1: The Accounting Cycle
+                    2: Accounting Principles and Standards
+                1:
+                  name: Accounting for Liabilities and Equity
+                  lessons:
+                    0: Liabilities and Their Classification
+                    1: Revenue Recognition
+                    2: Accounting for Income Taxes
+                2:
+                  name: Financial Statement Analysis
+                  lessons:
+                    0: Analyzing the Balance Sheet
+                    1: Analyzing the Income Statement
+                    2: Analyzing the Cash Flow Statement
+        2:
+          name: Department of Public Administration
+          overview: The Department of Public Administration is concerned with the organization and management of public sector institutions and services.
+          courses:
+            0:
+              name: Introduction to Public Administration
+              overview: Overview of public administration, including its principles, functions, and the role of public sector organizations.
+              chapters:
+                0:
+                  name: Introduction to Public Administration
+                  lessons:
+                    0: Definition and Scope of Public Administration
+                    1: Historical Development of Public Administration
+                    2: Ethics and Accountability in Public Administration
+                1:
+                  name: Organizational Structure and Management
+                  lessons:
+                    0: Structure of Public Organizations
+                    1: Management Theories and Practices
+                    2: Human Resources in Public Administration
+                2:
+                  name: Policy Implementation and Management
+                  lessons:
+                    0: The Policy Process
+                    1: Public Program Management
+                    2: Budgeting and Financial Management
+            1:
+              name: Public Policy Analysis
+              overview: Techniques and methodologies for evaluating public policies, including policy formulation, implementation, and assessment.
+              chapters:
+                0:
+                  name: Introduction to Public Policy Analysis
+                  lessons:
+                    0: Overview of Public Policy Analysis
+                    1: Ethical Considerations in Policy Analysis
+                    2: Stakeholders in Policy Analysis
+                1:
+                  name: Problem Identification and Definition
+                  lessons:
+                    0: Defining Policy Problems
+                    1: Setting Policy Agendas
+                    2: Data Collection and Analysis
+                2:
+                  name: Policy Implementation and Evaluation
+                  lessons:
+                    0: Implementing Public Policies
+                    1: Monitoring and Evaluation
+                    2: Policy Adjustments and Reforms
+            2:
+              name: Public Financial Management
+              overview: Principles and practices of budgeting, financial planning, and accounting within government and public sector organizations.
+              chapters:
+                0:
+                  name: Introduction to Public Financial Management
+                  lessons:
+                    0: Overview of Public Financial Management
+                    1: Legal and Institutional Framework
+                    2: Public Financial Management Systems
+                1:
+                  name: Budgeting and Financial Planning
+                  lessons:
+                    0: The Budgeting Process
+                    1: Budget Formulation and Analysis
+                    2: Budget Execution and Monitoring
+                2:
+                  name: Revenue Management
+                  lessons:
+                    0: Public Sector Revenue Sources
+                    1: Taxation and Fiscal Policy
+                    2: Revenue Forecasting and Planning
+    4:
+      name: Faculty of Law
+      overview: The Faculty of Law is a critical academic division within many universities, dedicated to the study and practice of law and legal systems.
+      departments:
+        0:
+          name: Department of Legal Theory and History
+          overview: The Department of Legal Theory and History focuses on the philosophical and historical foundations of law.
+          courses:
+            0:
+              name: Introduction to Legal Theory
+              overview: Explores fundamental concepts, schools of thought, and philosophical foundations of law and its applications.
+              chapters:
+                0:
+                  name: Introduction to Legal Theory
+                  lessons:
+                    0: What is Legal Theory?
+                    1: The Role of Philosophy in Law
+                    2: Historical Development of Legal Theory
+                1:
+                  name: Natural Law Theory
+                  lessons:
+                    0: Foundations of Natural Law Theory
+                    1: Natural Law and Human Rights
+                    2: Natural Law and Legal Interpretation
+                2:
+                  name: Legal Realism and Critical Legal Studies
+                  lessons:
+                    0: Foundations of Legal Realism
+                    1: Legal Realism and Judicial Decision-Making
+                    2: Critical Legal Studies Movement
+            1:
+              name: History of Legal Systems
+              overview: The History of Legal Systems course explores the evolution of laws from ancient traditions to modern legal frameworks and global influences.
+              chapters:
+                0:
+                  name: Ancient Legal Systems
+                  lessons:
+                    0: Legal Systems of Ancient Mesopotamia
+                    1: Ancient Egyptian Law
+                    2: Legal Systems of Ancient Greece
+                1:
+                  name: Medieval Legal Systems
+                  lessons:
+                    0: Feudal Legal Systems in Europe
+                    1: Canon Law and the Catholic Church
+                    2: Islamic Legal Systems in the Medieval Period
+                2:
+                  name: Early Modern Legal Systems
+                  lessons:
+                    0: The Rise of National Legal Systems in Europe
+                    1: The Development of International Law
+                    2: The Evolution of Commercial Law
+            2:
+              name: The Development of International Law
+              overview: Studies the historical development, principles, and institutions of international law and its global impact.
+              chapters:
+                0:
+                  name: Historical Evolution of International Law
+                  lessons:
+                    0: Origins of International Law
+                    1: The Development of Modern International Law
+                    2: The Role of International Conferences and Organizations
+                1:
+                  name: Sources of International Law
+                  lessons:
+                    0: International Treaties and Conventions
+                    1: Customary International Law
+                    2: General Principles of Law
+                2:
+                  name: Major Milestones in International Law
+                  lessons:
+                    0: The Peace of Westphalia
+                    1: The Formation of the League of Nations
+                    2: The Adoption of Major Human Rights Treaties
+        1:
+          name: Department of International Law
+          overview: The Department of International Law focuses on the laws governing relations between countries and international organizations.
+          courses:
+            0:
+              name: International Human Rights Law
+              overview: Examines the protection and promotion of human rights globally, including treaties, conventions, and case law.
+              chapters:
+                0:
+                  name: Introduction to International Human Rights Law
+                  lessons:
+                    0: Foundational Principles of Human Rights Law
+                    1: Enforcement and Implementation of Human Rights Law
+                    2: Human Rights Institutions and Mechanisms
+                1:
+                  name: Regional Human Rights Systems
+                  lessons:
+                    0: European Human Rights System
+                    1: Inter-American Human Rights System
+                    2: Middle Eastern Human Rights Systems
+                2:
+                  name:  Human Rights Issues and Case Studies
+                  lessons:
+                    0: Human Rights Violations and Accountability
+                    1: Conflict and Post-Conflict Human Rights
+                    2: Human Rights and Migration
+            1:
+              name: International Trade Law
+              overview: Studies regulations governing international trade, including trade agreements, tariffs, and dispute resolution mechanisms.
+              chapters:
+                0:
+                  name: Introduction to International Trade Law
+                  lessons:
+                    0: Principles of International Trade Law
+                    1: International Trade Organizations
+                    2: Legal Framework for Trade in Goods and Services
+                1:
+                  name: Key International Trade Agreements
+                  lessons:
+                    0: General Agreement on Tariffs and Trade
+                    1: World Trade Organization (WTO) Agreements
+                    2: Bilateral and Multilateral Trade Agreements
+                2:
+                  name: Trade Policy and Regulation
+                  lessons:
+                    0: Trade Policy Formulation
+                    1: Trade Regulation and Compliance
+                    2: Trade and Economic Sanctions
+            2:
+              name: International Environmental Law
+              overview: Covers legal frameworks for environmental protection and sustainability, including treaties on climate change and biodiversity.
+              chapters:
+                0:
+                  name: International Environmental Law
+                  lessons:
+                    0: Principles of International Environmental Law
+                    1: Sources of International Environmental Law
+                    2: Evolution of International Environmental Law
+                1:
+                  name: International Environmental Agreements
+                  lessons:
+                    0: Climate Change Agreements
+                    1: Biodiversity and Conservation Treaties
+                    2: Marine and Oceanic Environmental Protection
+                2:
+                  name: Future Directions and Reforms
+                  lessons:
+                    0: Emerging Trends in International Environmental Law
+                    1: Analysis of proposed reforms in international environmental law
+                    2: Global Environmental Governance Innovations
+        2:
+          name: Department of Criminal Law and Procedure
+          overview: The Department of Criminal Law and Procedure deals with the laws relating to crime and the criminal justice system, including the processes of prosecution and defense.
+          courses:
+            0:
+              name: Criminal Law
+              overview: Study of laws defining criminal offenses, penalties, and the legal principles governing criminal conduct.
+              chapters:
+                0:
+                  name: Introduction to Criminal Law
+                  lessons:
+                    0: Principles of Criminal Law
+                    1: Criminal Law Theories
+                    2: Sources of Criminal Law
+                1:
+                  name: Criminal Offenses
+                  lessons:
+                    0: Categories of Crime
+                    1: Property Crimes
+                    2: Violent Crimes
+                2:
+                  name: Criminal Procedure
+                  lessons:
+                    0: Investigation and Arrest
+                    1: Best practices for preparing for pre-trial procedures
+                    2: Contemporary Issues in Criminal Procedure
+            1:
+              name: Criminal Procedure
+              overview: Examination of the legal processes and rules governing the prosecution and defense in criminal cases.
+              chapters:
+                0:
+                  name: Introduction to Criminal Procedure
+                  lessons:
+                    0: Overview of Criminal Procedure
+                    1: Constitutional Foundations
+                    2: The Criminal Justice System
+                1:
+                  name: Arrest and Investigation
+                  lessons:
+                    0: Search and Seizure
+                    1: Arrest Procedures
+                    2: Interrogation and Confessions
+                2:
+                  name: The Trial Process
+                  lessons:
+                    0: Pre-Trial Motions and Hearings
+                    1: The process of jury selection
+                    2: Appeals and Post-Conviction Remedies
+            2:
+              name: White-Collar Crime
+              overview: Study of non-violent, financially motivated crimes committed by individuals, businesses, or government officials.
+              chapters:
+                0:
+                  name: Introduction to White-Collar Crime
+                  lessons:
+                    0: Defining White-Collar Crime
+                    1: Types of White-Collar Crime
+                    2: Theoretical Perspectives on White-Collar Crime
+                1:
+                  name: Fraud and Financial Crimes
+                  lessons:
+                    0: Fraudulent Activities and Schemes
+                    1: Money Laundering
+                    2: Tax Evasion and Corporate Tax Fraud
+                2:
+                  name: Social and Economic Implications
+                  lessons:
+                    0: Impact on Victims and Society
+                    1: Ethical Considerations and Corporate Responsibility
+                    2: Future Trends and Challenges
+    5:
+      name: Faculty of Education
+      overview: The Faculty of Education is dedicated to advancing the field of education through research, teaching, and practical training.
+      departments:
+        0:
+          name: Department of Educational Psychology
+          overview: This department examines how psychological principles affect learning and teaching processes, aiming to improve educational outcomes.
+          courses:
+            0:
+              name: Introduction to Educational Psychology
+              overview: Examines basic concepts and theories related to learning, development, and educational practices.
+              chapters:
+                0:
+                  name: Foundations of Educational Psychology
+                  lessons:
+                    0: Introduction to Educational Psychology
+                    1: Research Methods in Educational Psychology
+                    2: Cognitive Development and Learning
+                1:
+                  name: Cognitive and Social Development
+                  lessons:
+                    0: Piaget’s Theory of Cognitive Development
+                    1: Erikson’s Psychosocial Development
+                    2: Social Learning Theory
+                2:
+                  name: Applications of Educational Psychology
+                  lessons:
+                    0: Classroom Management and Instructional Strategies
+                    1: Professional Development and Reflective Practice
+                    2: Educational Psychology in Policy and Practice
+            1:
+              name: Learning Theories
+              overview: Explores various theories of learning, including behavioral, cognitive, and constructivist approaches.
+              chapters:
+                0:
+                  name: Foundations of Learning Theories
+                  lessons:
+                    0: Introduction to Learning Theories
+                    1: Overview of major learning theories
+                    2: Principles of reinforcement and punishment
+                1:
+                  name: Cognitive Theories of Learning
+                  lessons:
+                    0: Strategies for creating authentic learning experiences
+                    1: Constructivist Learning Theory
+                    2: Overview of metacognitive theory and concepts
+                2:
+                  name: Behaviorist Theories and Applications
+                  lessons:
+                    0: Applications of classical conditioning in education
+                    1: Behavior Modification Techniques
+                    2: Critiques and Limitations of Behaviorism
+            2:
+              name: Classroom Management
+              overview: Discusses strategies and techniques for creating a positive and effective learning environment in educational settings.
+              chapters:
+                0:
+                  name: Principles of Classroom Management
+                  lessons:
+                    0: Introduction to Classroom Management
+                    1: Theories of Classroom Management
+                    2: Establishing Classroom Rules and Procedures
+                1:
+                  name: Managing Student Behavior
+                  lessons:
+                    0: Understanding Student Behavior
+                    1: Behavioral Interventions and Strategies
+                    2: Conflict Resolution and Problem Solving
+                2:
+                  name: Classroom Procedures and Routines
+                  lessons:
+                    0: Designing Effective Classroom Routines
+                    1: Transitions and Time Management
+                    2: Instructional Strategies for Classroom Management
+        1:
+          name: Department of Learning and Teaching
+          overview: The Department of Learning and Teaching is dedicated to exploring and enhancing the processes of teaching and learning.
+          courses:
+            0:
+              name: Educational Psychology
+              overview: Studies how cognitive, emotional, and social factors influence learning and teaching processes.
+              chapters:
+                0:
+                  name: Foundations of Educational Psychology
+                  lessons:
+                    0: Introduction to Educational Psychology
+                    1: Theories of Learning
+                    2: Developmental Psychology and Learning
+                1:
+                  name: Cognitive Processes and Learning
+                  lessons:
+                    0: Learning and Memory Strategies
+                    1: Information Processing Theory
+                    2: Problem-Solving and Critical Thinking
+                2:
+                  name: Psychological Factors in Education
+                  lessons:
+                    0: Emotional and Social Development
+                    1: Learning Disabilities and Special Needs
+                    2: Behavior Management and Discipline
+            1:
+              name: Curriculum Development
+              overview: Covers the design, implementation, and evaluation of educational curricula to meet diverse learning needs.
+              chapters:
+                0:
+                  name: Foundations of Curriculum Development
+                  lessons:
+                    0: Introduction to Curriculum Development
+                    1: Curriculum Theories and Models
+                    2: Curriculum Frameworks and Structures
+                1:
+                  name: Developing Curriculum Content
+                  lessons:
+                    0: Learning Objectives and Outcomes
+                    1: Instructional Materials and Resources
+                    2: Instructional Strategies and Methods
+                2:
+                  name: Evaluating and Improving the Curriculum
+                  lessons:
+                    0: Curriculum Evaluation Methods
+                    1: Using Evaluation Data to Inform Improvements
+                    2: Future Trends and Innovations in Curriculum Development
+            2:
+              name: Technology in Education
+              overview: Explores the integration of technology tools and resources to enhance teaching and learning experiences.
+              chapters:
+                0:
+                  name: Introduction to Technology in Education
+                  lessons:
+                    0: Overview of Educational Technology
+                    1: Types of Educational Technologies
+                    2: Instructional Design and Technology Integration
+                1:
+                  name: Technology Tools and Applications
+                  lessons:
+                    0: Learning Management Systems (LMS)
+                    1: Multimedia and Digital Content
+                    2: Interactive and Collaborative Technologies
+                2:
+                  name: Implementing Technology in the Classroom
+                  lessons:
+                    0: Technology Integration Strategies
+                    1: Professional Development for Educators
+                    2: Student Engagement and Motivation
+        2:
+          name: Educational and Psychological Sciences
+          overview: Explore how psychological principles apply to educational settings and how educational practices can be informed by psychological research.
+          courses:
+            0:
+              name: Educational Psychology
+              overview: Examines how psychological principles impact teaching and learning, including cognitive, emotional, and social factors affecting students.
+              chapters:
+                0:
+                  name: Foundations of Educational Psychology
+                  lessons:
+                    0: Introduction to Educational Psychology
+                    1: Theories of Learning
+                    2: Developmental Theories and Their Educational Implications
+                1:
+                  name: Cognitive and Social Development
+                  lessons:
+                    0: Cognitive Development and Learning Processes
+                    1: Social Development and Learning
+                    2: Emotional Development and Learning
+                2:
+                  name: Instructional Strategies and Techniques
+                  lessons:
+                    0: Effective Teaching Methods
+                    1: Technology in Education
+                    2: Curriculum Design and Development
+            1:
+              name: Developmental Psychology
+              overview: Studies psychological growth and change throughout the human lifespan, from infancy to old age, focusing on cognitive and emotional development.
+              chapters:
+                0:
+                  name: Introduction to Developmental Psychology
+                  lessons:
+                    0: Overview of Developmental Psychology
+                    1: Theories of Development
+                    2: Research Methods in Developmental Psychology
+                1:
+                  name: Prenatal and Infant Development
+                  lessons:
+                    0: Prenatal Development
+                    1: Infancy - Physical and Cognitive Development
+                    2: Developmental Challenges in Infancy
+                2:
+                  name: Adolescent Development
+                  lessons:
+                    0: Cognitive Development in Adolescence
+                    1: Social and Emotional Development in Adolescence
+                    2: Moral and Ethical Development in Adolescence
+            2:
+              name: Behavioral Psychology
+              overview: Investigates the principles of behavior and learning, exploring techniques for modifying behavior and understanding psychological disorders from a behavioral perspective.
+              chapters:
+                0:
+                  name: Foundations of Behavioral Psychology
+                  lessons:
+                    0: Introduction to Behavioral Psychology
+                    1: Principles of observational learning
+                    2: Behavioral Research Methods
+                1:
+                  name: Behavioral Theories and Models
+                  lessons:
+                    0: Behavioral Approaches to Therapy
+                    1: Behavioral Theories of Learning
+                    2: Behavioral Modification Techniques
+                2:
+                  name: Behavior Modification and Applications
+                  lessons:
+                    0: Principles of Behavior Modification
+                    1: Behavioral Interventions in Education
+                    2: Behavioral Approaches in Clinical Psychology
